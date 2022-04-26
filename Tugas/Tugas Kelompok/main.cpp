@@ -1,14 +1,14 @@
 #include<iostream>
 using namespace std;
 
-//fungsi untuk menukar isi dari variabel a dengan variabel b
+// fungsi untuk menukar isi dari variabel a dengan variabel b
 void swapping(int &a, int &b){
 	int temp;
 	temp = a;
 	a = b;
 	b = temp;
 	// int a adalah untuk angka pertama
-	// dan int b adalah untuk angka kedua
+	// int b adalah untuk angka kedua
 	// temp adalah tempat sementara bagi variabel yang sudah ditukar
 }
 // fungsi untuk menampilkan hasil array yang nantinya sudah selesai disortir oleh program
