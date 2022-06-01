@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654104005 source:e:\kuliah\struktur-data\tugas\uas\uas_2_rafie\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+
