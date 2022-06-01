@@ -25,7 +25,6 @@ class edge
 
 };
 
-
 int main ()
 {
     int total_node, node_1, node_2, w;
@@ -49,9 +48,6 @@ int main ()
         }
         cout << endl;
         c++;
-
     }
-
-
     return 0;
 }
