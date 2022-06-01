@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654102646 source:e:\kuliah\struktur-data\tugas\uas\uas_1_rafie\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<list>
+

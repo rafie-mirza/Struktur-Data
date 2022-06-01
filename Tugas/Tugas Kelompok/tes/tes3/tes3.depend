@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654102075 source:e:\kuliah\struktur-data\tugas\tugas kelompok\tes\tes3\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<list>
+
